@@ -1,2 +1,0 @@
-# healthycook
-Easy healthy cooking
